@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.summary  = 'Apptentive Customer Communications SDK.'
   s.homepage = 'https://www.apptentive.com/'
   s.author   = { "Andrew Wooster" => "andrew@apptentive.com" }
-  s.source   = { :http => 'https://apptentive-downloads.s3.amazonaws.com/releases/apptentive-ios/1.2.7/apptentive_ios_sdk-cocoapods-1.3.0.tar.gz' }
+  s.source   = { :http => 'https://apptentive-downloads.s3.amazonaws.com/releases/apptentive-ios/1.3.0/apptentive_ios_sdk-cocoapods-1.3.0.tar.gz' }
   s.platform = :ios, '5.0'
   s.source_files   = 'include/*.h'
   s.preserve_paths = 'libApptentiveConnect.a'
